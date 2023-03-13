@@ -1,0 +1,11 @@
+version: '3.9'
+
+services:
+  mongo-family-app:
+    image: mongo:latest
+    restart: on-failure
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=family-app
+      - MONGO_INITDB_ROOT_PASSWORD=family-app
+    ports:
+      - 27017:27017
