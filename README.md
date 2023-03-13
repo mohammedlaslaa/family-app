@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/mohammedlaslaa/familyapp -->
+<!-- Improved compatibility of back to top link: See: https://github.com/mohammedlaslaa/family-app -->
 
 <a id="readme-top"></a>
 
@@ -16,14 +16,14 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/mohammedlaslaa/familyapp"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mohammedlaslaa/family-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mohammedlaslaa/familyapp">View Demo</a>
+    <a href="https://github.com/mohammedlaslaa/family-app">View Demo</a>
     ·
-    <a href="https://github.com/mohammedlaslaa/familyapp/issues">Report Bug</a>
+    <a href="https://github.com/mohammedlaslaa/family-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/mohammedlaslaa/familyapp/issues">Request Feature</a>
+    <a href="https://github.com/mohammedlaslaa/family-app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -106,7 +106,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Laslaa Mohammed - mohamed.laslaa@gmail.com
 
-Project Link: [https://github.com/mohammedlaslaa/familyapp](https://github.com/mohammedlaslaa/familyapp)
+Project Link: [https://github.com/mohammedlaslaa/family-app](https://github.com/mohammedlaslaa/family-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,16 +123,16 @@ Project Link: [https://github.com/mohammedlaslaa/familyapp](https://github.com/m
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/mohammedlaslaa/familyapp.svg?style=for-the-badge
-[contributors-url]: https://github.com/mohammedlaslaa/familyapp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mohammedlaslaa/familyapp.svg?style=for-the-badge
-[forks-url]: https://github.com/mohammedlaslaa/familyapp/network/members
-[stars-shield]: https://img.shields.io/github/stars/mohammedlaslaa/familyapp.svg?style=for-the-badge
-[stars-url]: https://github.com/mohammedlaslaa/familyapp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mohammedlaslaa/familyapp.svg?style=for-the-badge
-[issues-url]: https://github.com/mohammedlaslaa/familyapp/issues
-[license-shield]: https://img.shields.io/github/license/mohammedlaslaa/familyapp.svg?style=for-the-badge
-[license-url]: https://github.com/mohammedlaslaa/familyapp/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/mohammedlaslaa/family-app.svg?style=for-the-badge
+[contributors-url]: https://github.com/mohammedlaslaa/family-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mohammedlaslaa/family-app.svg?style=for-the-badge
+[forks-url]: https://github.com/mohammedlaslaa/family-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/mohammedlaslaa/family-app.svg?style=for-the-badge
+[stars-url]: https://github.com/mohammedlaslaa/family-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mohammedlaslaa/family-app.svg?style=for-the-badge
+[issues-url]: https://github.com/mohammedlaslaa/family-app/issues
+[license-shield]: https://img.shields.io/github/license/mohammedlaslaa/family-app.svg?style=for-the-badge
+[license-url]: https://github.com/mohammedlaslaa/family-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mohammedlaslaa
 [product-screenshot]: images/screenshot.png
